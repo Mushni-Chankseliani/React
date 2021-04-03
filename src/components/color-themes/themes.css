@@ -1,0 +1,60 @@
+.boxes {
+    width: 100px;
+    height: 100px;
+    cursor: pointer;
+}
+
+.boxes:not(:last-of-type) {
+    margin-right: 15px;
+}
+
+.color-red {
+    background-color: red;
+    color: black;
+}
+
+.color-green {
+    background-color: green;
+    color: black;
+}
+
+.color-blue {
+    background-color: blue;
+    color: white;
+}
+
+
+.color-black {
+    background-color: black;
+    color: white;
+}
+
+
+.color-brown {
+    background-color: brown;
+    color: white;
+}
+
+
+.color-grey {
+    background-color: grey;
+    color: black;
+}
+
+
+.color-yellow {
+    background-color: yellow;
+    color: black;
+}
+
+
+.color-aqua {
+    background-color: aqua;
+    color: black;
+}
+
+
+.color-purple {
+    background-color: purple;
+    color: white;
+}
